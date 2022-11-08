@@ -1,3 +1,11 @@
+Nodejs 설치할 것
+
+git clone 후 폴더로 이동
+설치 후 실행
+```
+npm install
+node index.js
+```
 ```
 *    *    *    *    *    *
 ┬    ┬    ┬    ┬    ┬    ┬
